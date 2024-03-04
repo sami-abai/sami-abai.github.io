@@ -28,7 +28,7 @@ author:
   name             : ""#"Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "" #"Short biography for the left-hand sidebar"
-  location         : "Tuls,OK"
+  location         : "Tulsa,OK"
   employer         : "The University Of Tulsa"
   uri              : # URL
   email            : "samiabuhaimed@gmail.com"
@@ -253,15 +253,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+#  # _portfolio
+#  - scope:
+#      path: ""
+#      type: portfolio
+#    values:
+#      layout: single
+#      author_profile: true
+#      share: true
+#      comment: true
   # _talks
   - scope:
       path: ""
