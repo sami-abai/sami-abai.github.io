@@ -22,8 +22,10 @@ main:
   - title: "ِAbout Me"
     url: /aboutme/
 
-  - title: "Guide"
-    url: /markdown/
+  - title: "Research"
+    url: /research/
+#  - title: "Guide"
+#    url: /markdown/
 
   - title: "CV"
     url: /cv/
