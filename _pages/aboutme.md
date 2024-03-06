@@ -5,7 +5,7 @@ author_profile: true
 
 ---
 
-## Locations of key files/directories - ME
+## Locations of key files/directories - MEEEE
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
