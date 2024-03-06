@@ -32,3 +32,4 @@ and details about my [research](https://sami-abai.github.io/research/).
   * [05/2022]: **Presented/discussed paper!** At COINE workshop.
   * [04/2022]: **Paper accepted!** "Effective Task Allocation in Ad Hoc Human-Agent Teams" at Hybrid Human Artificial Intelligence (HHAI) Conference.
   * [03/2022]: **Paper accepted!** "Evaluating human and agent task allocators in ad hoc human-agent teams" at (COINE) Workshop.
+  * [11/2021]: **Proposal!** Completed dissertation proposal.
