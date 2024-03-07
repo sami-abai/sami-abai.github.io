@@ -19,4 +19,4 @@ and details about my [research](https://sami-abai.github.io/research/).
   * [12/2023]: **Paper accepted:** "Team performance and user satisfaction in mixed human-agent teams" at AAMAS.   
   * [08/2023]: **Paper accepted!** "Effects of explanation types on user satisfaction and performance in human-agent teams" at International Journal on Artificial Intelligence Tools (IJAIT) Journal.
   * [07/2023]: **Chaired a session!** Titled: "Insights from Human-Centered Design of AI Agents" at HCII Conference.
-  * [0799/2023]: Presented a paper! At HCII conference.
+  * (07/2023): Presented a paper! At HCII conference.
