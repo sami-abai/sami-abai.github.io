@@ -22,7 +22,8 @@ and details about my [research](https://sami-abai.github.io/research/).
   * (08/2023): **Paper accepted!** "Effects of explanation types on user satisfaction and performance in human-agent teams" at International Journal on Artificial Intelligence Tools (IJAIT) Journal.
   * (07/2023): **Chaired a session!** Titled: "Insights from Human-Centered Design of AI Agents" at HCII Conference.
   * (07/2023): **Presented a paper!** at HCII conference.
-  * (05/2023): **Presented a paper!** at FLAIRS23 conference.  
+  * (05/2023): **Presented a paper!** at FLAIRS23 conference.
+  * (04/2023): My beautiful daughter, **Yara**, is born!   
   * (03/2023): **Paper accepted!** "Relative Effects of Positive and Negative Explanations on Satisfaction and Performance in Human-Agent Teams" at FLAIRS Conference.   
   * (03/2023): **Fellowship!** Awarded the 2023 Graduate Summer Fellowship from TU! 
   * (03/2023): **Paper accepted!** "Choosing the Allocator: Effect on Performance and Satisfaction in Human-Agent Teams" at FLAIRS Conference.      
