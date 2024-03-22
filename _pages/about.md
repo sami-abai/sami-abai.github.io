@@ -12,11 +12,11 @@ My research explores the fascinating dynamics of human-agent teams,
 and how humans and AI can work together effectively.
 
 Here’s some more [About Me](https://sami-abai.github.io/aboutme/) 
-and details about my [research](https://sami-abai.github.io/research/). 
+and details about my [Research](https://sami-abai.github.io/research/). 
 
-### News Highlights
+### News Highlights 
   * (03/2024): **Nominated!** for Distinguished Graduate Student Research Award.
-  * (03/2024): **Paper accepted!** "Positive and negative explanation effects in human-agent teams" at AI and Ethics Journal.
+  * (03/2024): **Paper accepted!** "Positive and negative explanation effects in human-agent teams" at AI and Ethics Journal.* (02/2024): **Paper submitted!** "Effect of Task Allocation Protocols in Human-Agent Teams" at C-MAS 2024 Workshop.
   * (01/2024): **Paper submitted!** "Adapting Task Allocation in Ad Hoc Human-Agent Teams to Leverage Expertise of Team Members" at AI Communications Journal.
   * (12/2023): **Paper accepted:** "Team performance and user satisfaction in mixed human-agent teams" at AAMAS.   
   * (08/2023): **Paper accepted!** "Effects of explanation types on user satisfaction and performance in human-agent teams" at International Journal on Artificial Intelligence Tools (IJAIT) Journal.
