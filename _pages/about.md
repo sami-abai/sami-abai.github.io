@@ -11,11 +11,11 @@ I am a PhD student at The University of Tulsa, advised by Prof. Sandip Sen.
 My research explores the fascinating dynamics of human-agent teams,
 and how humans and AI can work together effectively.
 
-Here’s some more [About Me](https://sami-abai.github.io/aboutme/) 
+Here’s some more [About Me](https://sami-abai.github.io/meResearch/) 
 and details about my [Publications](https://sami-abai.github.io/research/). 
 
 ### News Highlights 
-  * (03/2024): **Paper accepted!!** "Effect of Task Allocation Protocols in Human-Agent Teams" at C-MAS 2024 Workshop.
+  * (03/2024): **Paper accepted!** "Effect of Task Allocation Protocols in Human-Agent Teams" at C-MAS 2024 Workshop.
   * (03/2024): **Nominated!** for Distinguished Graduate Student Research Award.
   * (03/2024): **Paper accepted!** "Positive and negative explanation effects in human-agent teams" at AI and Ethics Journal.
   * (01/2024): **Paper submitted!** "Adapting Task Allocation in Ad Hoc Human-Agent Teams to Leverage Expertise of Team Members" at AI Communications Journal.
