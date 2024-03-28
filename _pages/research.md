@@ -20,7 +20,8 @@ Lavender, Bryan, **Abuhaimed, Sami**, and Sen, Sandip. “Effects of explanation
 
 **Abuhaimed, Sami** and Sen, Sandip. “Team performance and user satisfaction in mixed human-agent teams.23rd Intl Conf on Autonomous Agents and MultiAgent Systems, Auckland, New Zealand, May 2024 (**Accepted, to be presented**). 
 
-**Abuhaimed, Sami** and Sen, Sandip. ”Human Satisfaction in Ad Hoc Human-Agent Teams.” In Intl Conf on Human-Computer Interaction, pp. 207-219. Cham: Springer Nature Switzerland, 2023. (**Presented**)  Invited to **Chair** session:  “Insights from Human-centered Design of AI Agents.”
+**Abuhaimed, Sami** and Sen, Sandip. ”Human Satisfaction in Ad Hoc Human-Agent Teams.” In Intl Conf on Human-Computer Interaction, pp. 207-219. Cham: Springer Nature Switzerland, 2023. (**Presented**) 
+ * **Chaired** session titled:  “Insights from Human-centered Design of AI Agents.”
 
 **Abuhaimed, Sami**, Karaoglu, Selim, and Sen, Sandip., “Choosing the Task Allocator: Effect on Performance and Satisfaction in Human-Agent Team.”In The 36th International FLAIRS Conference, Clearwater Beach, FL 2023. (**Presented**) 
 
