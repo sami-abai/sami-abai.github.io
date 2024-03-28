@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD student at The University of Tulsa, advised by Prof. Sandip Sen.
 My research explores the fascinating dynamics of human-agent teams,
-and how humans and AI can work together effectively.
+and how humans and AI can collaborate together effectively.
 
 Here’s some more [About Me](https://sami-abai.github.io/meResearch/) 
 and details about my [Publications](https://sami-abai.github.io/research/). 
