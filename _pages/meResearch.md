@@ -10,7 +10,7 @@ industry as R&D Software Engineer.
 
 My research interests can be summarized as follows:
 * ways to design and think of human-agent teams, e.g., how to allocate tasks?
-* developing agents that enable human productivity and enrich their lives positively
+* developing agents that enhance humans' productivity and enrich their lives positively
 * AI impact, especially on non-English language communities and emerging countries
 
 It is exciting to build a bridge between CS and Social Sciences, e.g. Management, Psychology, and Economics.
