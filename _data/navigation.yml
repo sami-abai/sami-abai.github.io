@@ -18,20 +18,19 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
 
+  - title: "About Me"
+    url: /meResearch/
 
-  - title: "ِAbout Me"
-    url: /aboutme/
+#  - title: "ِAbout Me"
+#    url: /aboutme/
 
   - title: "Research"
     url: /research/
 
-  - title: "meResearch"
-    url: /meResearch/
-
 #  - title: "Guide"
 #    url: /markdown/
 
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
 
 
