@@ -3,8 +3,10 @@ permalink: /research/
 title: "Publications"
 author_profile: true
 
- publication | [scholar](https://scholar.google.com/citations?hl=en&user=BKZ6UBcAAAAJ)
+ 
 ---
+## publication | [scholar](https://scholar.google.com/citations?hl=en&user=BKZ6UBcAAAAJ)
+
 ### Journals
 
 **Abuhaimed, Sami** and Sen, Sandip. “Effective Task Allocation in Ad Hoc Human-Agent Teams.” In Journal of Collective Intelligence, 2024. (**To be submitted**) 
