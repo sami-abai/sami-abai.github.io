@@ -5,7 +5,7 @@ author_profile: true
 
  
 ---
-## publication | [scholar](https://scholar.google.com/citations?hl=en&user=BKZ6UBcAAAAJ)
+## publications | [scholar](https://scholar.google.com/citations?hl=en&user=BKZ6UBcAAAAJ)
 
 ### Journals
 
@@ -36,7 +36,7 @@ Peasley, Dale, Bohan Xu, **Sami Abuhaimed**, and Sandip Sen. "Design of Conversa
 **Abuhaimed, Sami**, and Sen, Sandip. “Influence of Expertise Complementarity on Ad Hoc Human-Agent Team Effectiveness.” In PRIMA 2022: Principles and Practice of Multi-Agent Systems: 24th International Conference, Proceedings, pp. 679. (**Presented**). 
 
 
-### Workshops/Symposium
+### Workshops/Symposiums
 
 **Abuhaimed, Sami** and Sen, Sandip. “Effect of Task Allocation Protocols in Human-Agent Teams.” in the 2nd Intl Workshop on Citizen-Centric Multiagent Systems, Auckland, New Zealand, May 2024 (**Accepted, to be presented**).
 
