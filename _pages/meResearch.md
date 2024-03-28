@@ -16,6 +16,6 @@ My research interests can be summarized as follows:
 It is exciting to build a bridge between CS and Social Sciences, e.g. Management, Psychology, and Economics.
 
 
-I like watching international movies with my family as I find world cultures fascinating!
+I like watching international movies with my family as I find world cultures (and geographies) fascinating!
 
 
